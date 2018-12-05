@@ -67,5 +67,3 @@ gem 'httparty'
 group :production do
   gem 'pg'
 end
-
-``
